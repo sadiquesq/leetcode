@@ -1,13 +1,16 @@
 var palindromePartition = function(s, k) {
     
-    x=Math.ceil(s.length/k)
-    console.log(s.slice(0,3))
-    for(i=0;i<x;i++)
+    count=0
+    n=0
+    for(i=0;i<s.length;i++)
     {
        a=s.slice(i,k+i)
-       console.log(a);
-       
+       if(i%k==0)
+       {
+        b=a.split("").reverse().join("")
+        if(a==b) count++
+       }
     }
-
+    return count
 };
-console.log(palindromePartition("aabbc",2));
+console.log(palindromePartition("aabbc",3));

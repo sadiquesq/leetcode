@@ -9,8 +9,8 @@ var maximumSwap = function(num) {
     {
         y+=a[i]
     }
-    return Number(y
+    return Number(y)
 
 };
-console.log(maximumSwap(2736));
+console.log(maximumSwap(98368));
 

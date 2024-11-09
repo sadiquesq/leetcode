@@ -10,4 +10,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/sadiquesq/leetcode/tree/master/0619-biggest-single-number) |
 | [1161-project-employees-i](https://github.com/sadiquesq/leetcode/tree/master/1161-project-employees-i) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/sadiquesq/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
+## Array
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/sadiquesq/leetcode/tree/master/3321-type-of-triangle) |
+## Math
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/sadiquesq/leetcode/tree/master/3321-type-of-triangle) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/sadiquesq/leetcode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/sadiquesq/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3321-type-of-triangle](https://github.com/sadiquesq/leetcode/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
@@ -30,13 +31,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/sadiquesq/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3540-hash-divided-string](https://github.com/sadiquesq/leetcode/tree/master/3540-hash-divided-string) |
 ## Simulation
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/sadiquesq/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3540-hash-divided-string](https://github.com/sadiquesq/leetcode/tree/master/3540-hash-divided-string) |
 ## Greedy
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/sadiquesq/leetcode/tree/master/1448-maximum-69-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/sadiquesq/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->

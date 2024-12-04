@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/sadiquesq/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3540-hash-divided-string](https://github.com/sadiquesq/leetcode/tree/master/3540-hash-divided-string) |
+| [3636-check-balanced-string](https://github.com/sadiquesq/leetcode/tree/master/3636-check-balanced-string) |
 ## Simulation
 |  |
 | ------- |

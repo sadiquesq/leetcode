@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sadiquesq/leetcode/tree/master/0070-climbing-stairs) |
 | [1448-maximum-69-number](https://github.com/sadiquesq/leetcode/tree/master/1448-maximum-69-number) |
 | [2571-find-the-pivot-integer](https://github.com/sadiquesq/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3321-type-of-triangle](https://github.com/sadiquesq/leetcode/tree/master/3321-type-of-triangle) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sadiquesq/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sadiquesq/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sadiquesq/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

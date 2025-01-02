@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/sadiquesq/leetcode/tree/master/1137-height-checker) |
 | [2048-build-array-from-permutation](https://github.com/sadiquesq/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/sadiquesq/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sadiquesq/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3321-type-of-triangle](https://github.com/sadiquesq/leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sadiquesq/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sadiquesq/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sadiquesq/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/sadiquesq/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sadiquesq/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/sadiquesq/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3540-hash-divided-string](https://github.com/sadiquesq/leetcode/tree/master/3540-hash-divided-string) |
 | [3636-check-balanced-string](https://github.com/sadiquesq/leetcode/tree/master/3636-check-balanced-string) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sadiquesq/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2571-find-the-pivot-integer](https://github.com/sadiquesq/leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sadiquesq/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Counting Sort
 |  |
 | ------- |

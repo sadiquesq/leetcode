@@ -96,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadiquesq/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2659-number-of-even-and-odd-bits](https://github.com/sadiquesq/leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 <!---LeetCode Topics End-->

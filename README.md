@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sadiquesq/leetcode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/sadiquesq/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadiquesq/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadiquesq/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sadiquesq/leetcode/tree/master/0049-group-anagrams) |
 | [1137-height-checker](https://github.com/sadiquesq/leetcode/tree/master/1137-height-checker) |
 | [2887-sort-vowels-in-a-string](https://github.com/sadiquesq/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/sadiquesq/leetcode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sadiquesq/leetcode/tree/master/0049-group-anagrams) |
 | [1524-string-matching-in-an-array](https://github.com/sadiquesq/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sadiquesq/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/sadiquesq/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sadiquesq/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/sadiquesq/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->

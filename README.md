@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/sadiquesq/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sadiquesq/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sadiquesq/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sadiquesq/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2881-split-strings-by-separator](https://github.com/sadiquesq/leetcode/tree/master/2881-split-strings-by-separator) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sadiquesq/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/sadiquesq/leetcode/tree/master/3321-type-of-triangle) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sadiquesq/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/sadiquesq/leetcode/tree/master/2659-number-of-even-and-odd-bits) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sadiquesq/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -140,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sadiquesq/leetcode/tree/master/0049-group-anagrams) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sadiquesq/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sadiquesq/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->

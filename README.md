@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/sadiquesq/leetcode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/sadiquesq/leetcode/tree/master/3371-harshad-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sadiquesq/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/sadiquesq/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sadiquesq/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Sorting
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/sadiquesq/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sadiquesq/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3540-hash-divided-string](https://github.com/sadiquesq/leetcode/tree/master/3540-hash-divided-string) |
+| [3567-convert-date-to-binary](https://github.com/sadiquesq/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/sadiquesq/leetcode/tree/master/3636-check-balanced-string) |
 ## Simulation
 |  |

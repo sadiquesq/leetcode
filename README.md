@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sadiquesq/leetcode/tree/master/0049-group-anagrams) |
 | [0782-jewels-and-stones](https://github.com/sadiquesq/leetcode/tree/master/0782-jewels-and-stones) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sadiquesq/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1524-string-matching-in-an-array](https://github.com/sadiquesq/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sadiquesq/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sadiquesq/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sadiquesq/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/sadiquesq/leetcode/tree/master/1448-maximum-69-number) |
 ## Two Pointers
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/sadiquesq/leetcode/tree/master/1137-height-checker) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sadiquesq/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sadiquesq/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sadiquesq/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Heap (Priority Queue)

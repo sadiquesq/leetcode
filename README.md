@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadiquesq/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/sadiquesq/leetcode/tree/master/0278-first-bad-version) |
 | [1646-kth-missing-positive-number](https://github.com/sadiquesq/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/sadiquesq/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sadiquesq/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sadiquesq/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sadiquesq/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

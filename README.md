@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sadiquesq/leetcode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/sadiquesq/leetcode/tree/master/0070-climbing-stairs) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sadiquesq/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/sadiquesq/leetcode/tree/master/1448-maximum-69-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sadiquesq/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/sadiquesq/leetcode/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sadiquesq/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0782-jewels-and-stones](https://github.com/sadiquesq/leetcode/tree/master/0782-jewels-and-stones) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sadiquesq/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/sadiquesq/leetcode/tree/master/0049-group-anagrams) |
 | [0782-jewels-and-stones](https://github.com/sadiquesq/leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sadiquesq/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |

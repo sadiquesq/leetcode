@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/sadiquesq/leetcode/tree/master/1168-duplicate-zeros) |
 | [1293-three-consecutive-odds](https://github.com/sadiquesq/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sadiquesq/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/sadiquesq/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/sadiquesq/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sadiquesq/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1646-kth-missing-positive-number](https://github.com/sadiquesq/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/sadiquesq/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/sadiquesq/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/sadiquesq/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3540-hash-divided-string](https://github.com/sadiquesq/leetcode/tree/master/3540-hash-divided-string) |

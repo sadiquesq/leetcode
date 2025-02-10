@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/sadiquesq/leetcode/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/sadiquesq/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sadiquesq/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/sadiquesq/leetcode/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/sadiquesq/leetcode/tree/master/3540-hash-divided-string) |
 | [3567-convert-date-to-binary](https://github.com/sadiquesq/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/sadiquesq/leetcode/tree/master/3636-check-balanced-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/sadiquesq/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/sadiquesq/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/sadiquesq/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [3447-clear-digits](https://github.com/sadiquesq/leetcode/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/sadiquesq/leetcode/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sadiquesq/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/sadiquesq/leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/sadiquesq/leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->

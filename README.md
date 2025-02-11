@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sadiquesq/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadiquesq/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadiquesq/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sadiquesq/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/sadiquesq/leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/sadiquesq/leetcode/tree/master/1168-duplicate-zeros) |
 | [1293-three-consecutive-odds](https://github.com/sadiquesq/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sadiquesq/leetcode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/sadiquesq/leetcode/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sadiquesq/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sadiquesq/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/sadiquesq/leetcode/tree/master/1448-maximum-69-number) |
 | [2571-find-the-pivot-integer](https://github.com/sadiquesq/leetcode/tree/master/2571-find-the-pivot-integer) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sadiquesq/leetcode/tree/master/0049-group-anagrams) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sadiquesq/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/sadiquesq/leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sadiquesq/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2756-buy-two-chocolates](https://github.com/sadiquesq/leetcode/tree/master/2756-buy-two-chocolates) |

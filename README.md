@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sadiquesq/leetcode/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sadiquesq/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0782-jewels-and-stones](https://github.com/sadiquesq/leetcode/tree/master/0782-jewels-and-stones) |
+| [1160-letter-tile-possibilities](https://github.com/sadiquesq/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/sadiquesq/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1524-string-matching-in-an-array](https://github.com/sadiquesq/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sadiquesq/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/sadiquesq/leetcode/tree/master/1137-height-checker) |
+| [1160-letter-tile-possibilities](https://github.com/sadiquesq/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/sadiquesq/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sadiquesq/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sadiquesq/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sadiquesq/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/sadiquesq/leetcode/tree/master/0049-group-anagrams) |
 | [0782-jewels-and-stones](https://github.com/sadiquesq/leetcode/tree/master/0782-jewels-and-stones) |
+| [1160-letter-tile-possibilities](https://github.com/sadiquesq/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sadiquesq/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sadiquesq/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sadiquesq/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sadiquesq/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/sadiquesq/leetcode/tree/master/3447-clear-digits) |
+## Backtracking
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/sadiquesq/leetcode/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->

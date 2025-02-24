@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sadiquesq/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/sadiquesq/leetcode/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sadiquesq/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sadiquesq/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/sadiquesq/leetcode/tree/master/0782-jewels-and-stones) |
 | [1160-letter-tile-possibilities](https://github.com/sadiquesq/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/sadiquesq/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/sadiquesq/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/sadiquesq/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sadiquesq/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sadiquesq/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |

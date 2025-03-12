@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/sadiquesq/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sadiquesq/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/sadiquesq/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sadiquesq/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sadiquesq/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2756-buy-two-chocolates](https://github.com/sadiquesq/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sadiquesq/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sadiquesq/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sadiquesq/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sadiquesq/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sadiquesq/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadiquesq/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/sadiquesq/leetcode/tree/master/0278-first-bad-version) |
 | [1646-kth-missing-positive-number](https://github.com/sadiquesq/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sadiquesq/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |

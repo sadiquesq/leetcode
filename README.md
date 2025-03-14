@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/sadiquesq/leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/sadiquesq/leetcode/tree/master/1168-duplicate-zeros) |
 | [1293-three-consecutive-odds](https://github.com/sadiquesq/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/sadiquesq/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sadiquesq/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/sadiquesq/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/sadiquesq/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadiquesq/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/sadiquesq/leetcode/tree/master/0278-first-bad-version) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/sadiquesq/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/sadiquesq/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sadiquesq/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation

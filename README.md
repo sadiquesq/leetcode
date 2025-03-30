@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/sadiquesq/leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/sadiquesq/leetcode/tree/master/1168-duplicate-zeros) |
 | [1293-three-consecutive-odds](https://github.com/sadiquesq/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1319-unique-number-of-occurrences](https://github.com/sadiquesq/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sadiquesq/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sadiquesq/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/sadiquesq/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/sadiquesq/leetcode/tree/master/0782-jewels-and-stones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sadiquesq/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/sadiquesq/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1319-unique-number-of-occurrences](https://github.com/sadiquesq/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sadiquesq/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sadiquesq/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sadiquesq/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
